@@ -31,3 +31,6 @@ To access the Hosts file on a Linux machine, follow these steps:
     Save the file and exit the text editor.
 
 To confirm that the new host file is working correctly, it is recommended to ping a website. This can be done by opening the terminal and typing "ping [website address]". If the website responds correctly, then the new host file has been successfully applied.
+
+
+For help please contact: BlockPorngithub@proton.me
